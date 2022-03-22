@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    font-family: Roboto, Noto sans kr;
+}
+
+a {
+    padding: 10px 0 4px 0;
+    color: #B3CDFF;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+a:hover {
+    color: white;
+    border-bottom: 2px solid white;
+    font-weight: bold;
+}
+
+.nav-000 {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-002, .nav-003 {
+    color: #00fede;
+    font-weight: bold;
+}
+
+.route-box {
+    background-color: #5383E8;
+    border-bottom: 1px solid #4171d6;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+}
+
+.route-list {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+}
+
+.notice-box {
+    background-color: rgb(41, 66, 114);
+    line-height: 40px;
+}
+
+.notice-text {
+    color: white;
+    font-weight: bold;
+}
+
+.notice-text:hover {
+    text-decoration: underline;
+    border: 0;
+}
