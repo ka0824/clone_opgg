@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../css/Main.css';
+import '../../css/Header.css';
 
 const Header = () => {
     const navList: string[] = ['홈', '챔피언 분석', '칼바람', 
