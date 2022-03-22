@@ -6,8 +6,6 @@
 - typeScript 사용법 익히기  
 - CSS, react 활용하기  
 - axios를 이용해 RESTful API 이용하기
-- 브랜치 나눠서 작업하기
-- pr 남기기
 
 <details>
 <summary>클론하고자하는 페이지</summary>
